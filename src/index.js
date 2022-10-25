@@ -1,13 +1,36 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+import LoginPage from "./containers/LoginPage";
+import RegisterPage from "./containers/RegisterPage";
+
+import ProtectedComponent from "./components/ProtectedComponent";
+import ProtectedComponentLogin from "./components/ProtectedComponentLogin";
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={
+          <ProtectedComponent>
+            <App />
+          </ProtectedComponent>
+        } />
+        <Route path="login" element={
+          //<ProtectedComponentLogin>
+          //<ProtectedComponent>
+            <LoginPage />
+          //</ProtectedComponent>
+          //</ProtectedComponentLogin>
+        } />
+        <Route path="register" element={<RegisterPage />} />
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
 
