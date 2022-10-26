@@ -1,7 +1,7 @@
 import { Typography } from '@mui/material'
 import React from 'react'
 
-import {Link,Box, Card, CardMedia, CardContent, Typographys} from "@mui/material";
+import {Link,Box, Card, CardMedia, CardContent, Typography} from "@mui/material";
 
 
 const CardNews = ({propsNews})=> {
