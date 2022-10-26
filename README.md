@@ -21,3 +21,5 @@ Branch dapat sesuai dengan kebutuhan dan kesepakatan bersama dalam pair, namun h
 link netlify:
 https://dts4c-26-final.netlify.app/
 
+Penjelasan applikasi:
+Website berita dengan menggunakan Api dati NewYorkTime
