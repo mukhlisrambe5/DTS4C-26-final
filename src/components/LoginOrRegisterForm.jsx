@@ -12,15 +12,13 @@ import {
   
 } from "../authentication/firebase"
 
-import {useAuthState} from "react-firebase-hooks/auth"
-
-
-import { useNavigate } from "react-router-dom";
+// import {useAuthState} from "react-firebase-hooks/auth"
+// import { useNavigate } from "react-router-dom";
 
 const LoginOrRegisterForm = ({ loginOrRegister }) => {
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
 
-  const [user, loading, error] = useAuthState(auth)
+  // const [user, loading, error] = useAuthState(auth)
 
 
   const [credential, setCredential] = useState({
@@ -58,14 +56,14 @@ const LoginOrRegisterForm = ({ loginOrRegister }) => {
     }
   };
 
-  useEffect(()=>{
-    if(loading){
-      return
-    }
-    if(user){
-      navigate("/")
-    }
-  }, [loading, user, navigate])
+  // useEffect(()=>{
+  //   if(loading){
+  //     return
+  //   }
+  //   if(user){
+  //     navigate("/")
+  //   }
+  // }, [loading, user, navigate])
 
   return (
     <Grid

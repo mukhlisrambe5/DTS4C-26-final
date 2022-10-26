@@ -1,0 +1,1993 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2022-10-26T02:22:37-04:00",
+    "num_results": 32,
+    "results": [
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "U.S. Officials Had a Secret Oil Deal With the Saudis. Or So They Thought.",
+            "abstract": "After Saudi leaders pushed to slash oil production despite a visit by President Biden, American officials have been left fuming that they were duped.",
+            "url": "https://www.nytimes.com/2022/10/25/us/politics/us-saudi-oil-deal.html",
+            "uri": "nyt://article/a3d9ba93-e2d0-5c3a-8a8e-5ab53f818167",
+            "byline": "By Mark Mazzetti, Edward Wong and Adam Entous",
+            "item_type": "Article",
+            "updated_date": "2022-10-26T01:33:16-04:00",
+            "created_date": "2022-10-25T18:55:20-04:00",
+            "published_date": "2022-10-25T18:55:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "United States International Relations",
+                "Oil (Petroleum) and Gasoline"
+            ],
+            "org_facet": [
+                "Organization of the Petroleum Exporting Countries"
+            ],
+            "per_facet": [
+                "Abdulaziz bin Salman, Prince of Saudi Arabia",
+                "Mohammed bin Salman (1985- )",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Saudi Arabia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/us/politics/25DC-SAUDI_1/merlin_210088365_078b4670-9b0c-49b8-935a-ad5ca9e59dc0-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1374,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden arriving in Saudi Arabia in July. The administration thought it had secured a promise from the Saudis to keep oil flowing in a bid to stabilize prices.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/us/politics/25DC-SAUDI_1/25DC-SAUDI_1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden arriving in Saudi Arabia in July. The administration thought it had secured a promise from the Saudis to keep oil flowing in a bid to stabilize prices.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/us/politics/25DC-SAUDI_1/25DC-SAUDI_1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden arriving in Saudi Arabia in July. The administration thought it had secured a promise from the Saudis to keep oil flowing in a bid to stabilize prices.",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3TJEUpu"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "How Saudi Arabia’s Blowup With Biden Threatens Democrats in 2022",
+            "abstract": "Democrats and administration officials are furious at the Saudis’ move to cut oil production, seeing it as an attempt to meddle in a U.S. election.",
+            "url": "https://www.nytimes.com/2022/10/25/us/politics/saudi-arabia-oil-biden-democrats.html",
+            "uri": "nyt://article/42f35f33-3d76-54f4-a538-b2735c467547",
+            "byline": "By Blake Hounshell",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T19:30:04-04:00",
+            "created_date": "2022-10-25T19:30:04-04:00",
+            "published_date": "2022-10-25T19:30:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "internal-sub-only-nl",
+                "Midterm Elections (2022)",
+                "United States International Relations",
+                "Oil (Petroleum) and Gasoline"
+            ],
+            "org_facet": [
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Mohammed bin Salman (1985- )"
+            ],
+            "geo_facet": [
+                "Saudi Arabia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25onpolitics-newsletter-1-942c/25onpolitics-newsletter-1-942c-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1596,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In this image released by the Saudi Royal Palace, Crown Prince Mohammed bin Salman greeted President Biden in July in Jeddah, Saudi Arabia.",
+                    "copyright": "Bandar Aljaloud/Saudi Royal Palace, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25onpolitics-newsletter-1-942c/25onpolitics-newsletter-1-942c-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In this image released by the Saudi Royal Palace, Crown Prince Mohammed bin Salman greeted President Biden in July in Jeddah, Saudi Arabia.",
+                    "copyright": "Bandar Aljaloud/Saudi Royal Palace, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25onpolitics-newsletter-1-942c/25onpolitics-newsletter-1-942c-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In this image released by the Saudi Royal Palace, Crown Prince Mohammed bin Salman greeted President Biden in July in Jeddah, Saudi Arabia.",
+                    "copyright": "Bandar Aljaloud/Saudi Royal Palace, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3N5cq6M"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Fetterman, Showing Stroke Effects, Battles Oz in Hostile Senate Debate",
+            "abstract": "Lt. Gov. John Fetterman, a Democrat, tried to assure voters of his fitness to serve. Dr. Mehmet Oz, a former celebrity physician and Republican, attacked him as too radical for the job.",
+            "url": "https://www.nytimes.com/2022/10/25/us/politics/fetterman-oz-debate-senate-pa.html",
+            "uri": "nyt://article/a570e38b-5bc3-5b34-9526-224bc5bb0d94",
+            "byline": "By Shane Goldmacher",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:52:10-04:00",
+            "created_date": "2022-10-25T23:20:29-04:00",
+            "published_date": "2022-10-25T23:20:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "Elections, Senate",
+                "Debates (Political)"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Fetterman, John (1969- )",
+                "Oz, Mehmet C"
+            ],
+            "geo_facet": [
+                "Pennsylvania"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/us/politics/fetterman-oz-03/fetterman-oz-03-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Senate race in Pennsylvania between Lt. Gov. John Fetterman and Dr. Mehmet Oz is increasingly seen as a tipping-point contest for control of the chamber.",
+                    "copyright": " Greg Nash/Nexstar Media Group"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/us/politics/fetterman-oz-03/fetterman-oz-03-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Senate race in Pennsylvania between Lt. Gov. John Fetterman and Dr. Mehmet Oz is increasingly seen as a tipping-point contest for control of the chamber.",
+                    "copyright": " Greg Nash/Nexstar Media Group"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/us/politics/fetterman-oz-03/fetterman-oz-03-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Senate race in Pennsylvania between Lt. Gov. John Fetterman and Dr. Mehmet Oz is increasingly seen as a tipping-point contest for control of the chamber.",
+                    "copyright": " Greg Nash/Nexstar Media Group"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VWIn5v"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Battle for New York: 5 Takeaways From the Hochul-Zeldin Debate",
+            "abstract": "Representative Lee Zeldin conveyed a sense of outrage over crime and the economy, as Gov. Kathy Hochul emphasized his views on abortion and his ties to Donald Trump.",
+            "url": "https://www.nytimes.com/2022/10/25/nyregion/takeaways-hochul-zeldin-debate.html",
+            "uri": "nyt://article/e827f888-4375-5aa9-9034-7fad58b916f1",
+            "byline": "By Luis Ferré-Sadurní and Michael Gold",
+            "item_type": "Article",
+            "updated_date": "2022-10-26T00:09:27-04:00",
+            "created_date": "2022-10-25T21:30:31-04:00",
+            "published_date": "2022-10-25T21:30:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Debates (Political)",
+                "Elections, Governors",
+                "Abortion",
+                "Crime and Criminals",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Government Contracts and Procurement"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Hochul, Kathleen C",
+                "Zeldin, Lee M"
+            ],
+            "geo_facet": [
+                "New York State"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25ny-gov-debate-takeaways-1-f3b5/25ny-gov-debate-takeaways-1-f3b5-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Lee Zeldin, left, and Gov. Kathy Hochul, right, faced off on Tuesday in the first and only debate in the race for governor of New York.",
+                    "copyright": "Mary Altaffer/Pool, Associated Press, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25ny-gov-debate-takeaways-1-f3b5/25ny-gov-debate-takeaways-1-f3b5-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Lee Zeldin, left, and Gov. Kathy Hochul, right, faced off on Tuesday in the first and only debate in the race for governor of New York.",
+                    "copyright": "Mary Altaffer/Pool, Associated Press, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25ny-gov-debate-takeaways-1-f3b5/25ny-gov-debate-takeaways-1-f3b5-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Lee Zeldin, left, and Gov. Kathy Hochul, right, faced off on Tuesday in the first and only debate in the race for governor of New York.",
+                    "copyright": "Mary Altaffer/Pool, Associated Press, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FeXNft"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Amid Backlash, Liberal House Democrats Retract Call to Pursue Ukraine Ceasefire",
+            "abstract": "One day after issuing a letter urging President Biden to seek direct diplomatic talks with Russia, progressives withdrew that appeal. The move reflected deepening divisions over the conflict.",
+            "url": "https://www.nytimes.com/2022/10/25/world/europe/democrats-biden-ukraine.html",
+            "uri": "nyt://article/82327364-5c2a-5959-b211-586cb49a1436",
+            "byline": "By Catie Edmondson",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:37:05-04:00",
+            "created_date": "2022-10-25T14:19:26-04:00",
+            "published_date": "2022-10-25T14:19:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Russian Invasion of Ukraine (2022)",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "Congressional Progressive Caucus",
+                "Democratic Party",
+                "House of Representatives"
+            ],
+            "per_facet": [
+                "Jayapal, Pramila"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25ukraine-briefing-cong-topart-1-6aaa/25ukraine-briefing-cong-topart-1-6aaa-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Pramila Jayapal of Washington, the letter’s principal author, faulted unnamed aides for releasing the letter.",
+                    "copyright": "Gabriela Bhaskar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25ukraine-briefing-cong-topart-1-6aaa/25ukraine-briefing-cong-topart-1-6aaa-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Pramila Jayapal of Washington, the letter’s principal author, faulted unnamed aides for releasing the letter.",
+                    "copyright": "Gabriela Bhaskar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25ukraine-briefing-cong-topart-1-6aaa/25ukraine-briefing-cong-topart-1-6aaa-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Pramila Jayapal of Washington, the letter’s principal author, faulted unnamed aides for releasing the letter.",
+                    "copyright": "Gabriela Bhaskar for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3svQg4o"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "On Ukraine and on Energy, Germany Is Upsetting Its Allies in Europe",
+            "abstract": "The government has dismissed criticism of its refusal to provide modern tanks to Ukraine and its massive energy subsidy for its own citizens. But its friends are bridling.",
+            "url": "https://www.nytimes.com/2022/10/25/world/europe/germany-ukraine-energy-policy.html",
+            "uri": "nyt://article/8f821b9e-68ff-52b2-bde6-7d3b726c9018",
+            "byline": "By Steven Erlanger",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:04:47-04:00",
+            "created_date": "2022-10-25T14:19:48-04:00",
+            "published_date": "2022-10-25T14:19:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "Politics and Government",
+                "Defense and Military Forces",
+                "Russian Invasion of Ukraine (2022)",
+                "Arms Trade",
+                "United States International Relations",
+                "Economic Conditions and Trends",
+                "Energy and Power",
+                "Oil (Petroleum) and Gasoline",
+                "Electric Light and Power"
+            ],
+            "org_facet": [
+                "European Union"
+            ],
+            "per_facet": [
+                "Baerbock, Annalena",
+                "Macron, Emmanuel (1977- )",
+                "Scholz, Olaf (1958- )",
+                "Rottgen, Norbert",
+                "Lambrecht, Christine"
+            ],
+            "geo_facet": [
+                "Europe",
+                "Germany",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25eu-germany01/merlin_215439666_02c55c3e-94d8-4788-ba5c-1d0594c7031d-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chancellor Olaf Scholz of Germany, right; Prime Minister Denys Shmyhal of Ukraine, center; and Ursula von der Leyen, president of the European Commission, at a conference in Berlin on Tuesday on the reconstruction of Ukraine. Germany has pushed back against the idea that it is isolating itself.",
+                    "copyright": "Markus Schreiber/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25eu-germany01/merlin_215439666_02c55c3e-94d8-4788-ba5c-1d0594c7031d-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chancellor Olaf Scholz of Germany, right; Prime Minister Denys Shmyhal of Ukraine, center; and Ursula von der Leyen, president of the European Commission, at a conference in Berlin on Tuesday on the reconstruction of Ukraine. Germany has pushed back against the idea that it is isolating itself.",
+                    "copyright": "Markus Schreiber/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25eu-germany01/25eu-germany01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chancellor Olaf Scholz of Germany, right; Prime Minister Denys Shmyhal of Ukraine, center; and Ursula von der Leyen, president of the European Commission, at a conference in Berlin on Tuesday on the reconstruction of Ukraine. Germany has pushed back against the idea that it is isolating itself.",
+                    "copyright": "Markus Schreiber/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Fgjw6x"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Brittney Griner’s Prison Term Is Upheld by Russian Court",
+            "abstract": "The W.N.B.A. athlete is facing nine years in a Russian prison on a drug charge. A prisoner swap may be her only path home.",
+            "url": "https://www.nytimes.com/2022/10/25/world/europe/brittney-griner-appeal-russia.html",
+            "uri": "nyt://article/c11baf71-79a3-5ea0-8d6b-78eaeae084c0",
+            "byline": "By Ivan Nechepurenko, Neil MacFarquhar and Jonathan Abrams",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:05:40-04:00",
+            "created_date": "2022-10-25T19:00:09-04:00",
+            "published_date": "2022-10-25T19:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Decisions and Verdicts",
+                "Russian Invasion of Ukraine (2022)",
+                "United States International Relations",
+                "Political Prisoners"
+            ],
+            "org_facet": [
+                "Women's National Basketball Assn"
+            ],
+            "per_facet": [
+                "Griner, Brittney"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25ukraine-ledeall1/merlin_215445333_547a7cee-5b3d-4db2-89b4-993101fd6244-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brittney Griner speaking with her lawyers in a courtroom in July. Addressing the court on Tuesday, she protested her unusually long sentence.",
+                    "copyright": "Pool photo by Alexander Zemlianichenko"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25ukraine-ledeall1/merlin_215445333_547a7cee-5b3d-4db2-89b4-993101fd6244-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brittney Griner speaking with her lawyers in a courtroom in July. Addressing the court on Tuesday, she protested her unusually long sentence.",
+                    "copyright": "Pool photo by Alexander Zemlianichenko"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25ukraine-ledeall1/merlin_215445333_547a7cee-5b3d-4db2-89b4-993101fd6244-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brittney Griner speaking with her lawyers in a courtroom in July. Addressing the court on Tuesday, she protested her unusually long sentence.",
+                    "copyright": "Pool photo by Alexander Zemlianichenko"
+                }
+            ],
+            "short_url": "https://nyti.ms/3sBqfjT"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Sunak Faces Political Test of His Career: Unify Party and Fix the Economy",
+            "abstract": "The Conservative Party is fractured and Britain’s public finances are battered. That will test the political skills of a leader who has been involved in national politics for only seven years.",
+            "url": "https://www.nytimes.com/2022/10/25/world/europe/rishi-sunak-uk-economy-politics.html",
+            "uri": "nyt://article/c08bceb3-490a-5662-ae1a-05575302fdee",
+            "byline": "By Mark Landler",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:39:22-04:00",
+            "created_date": "2022-10-25T17:20:10-04:00",
+            "published_date": "2022-10-25T17:20:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Elections",
+                "Politics and Government",
+                "Midterm Elections (2022)",
+                "Polls and Public Opinion"
+            ],
+            "org_facet": [
+                "Buckingham Palace",
+                "Conservative Party (Great Britain)"
+            ],
+            "per_facet": [
+                "Charles III, King of the United Kingdom",
+                "Hunt, Jeremy",
+                "Mordaunt, Penny",
+                "Sunak, Rishi (1980- )",
+                "Truss, Elizabeth (1975- )"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25uk-politics-ledeall-01/merlin_215443689_60e88eb9-3cd6-4ff1-a780-3386d636e8fe-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Rishi Sunak of Britain speaks outside 10 Downing Street after taking office on Tuesday.",
+                    "copyright": "Dan Kitwood/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25uk-politics-ledeall-01/merlin_215443689_60e88eb9-3cd6-4ff1-a780-3386d636e8fe-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Rishi Sunak of Britain speaks outside 10 Downing Street after taking office on Tuesday.",
+                    "copyright": "Dan Kitwood/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25uk-politics-ledeall-01/25uk-politics-ledeall-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Rishi Sunak of Britain speaks outside 10 Downing Street after taking office on Tuesday.",
+                    "copyright": "Dan Kitwood/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DGNaB3"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "In Sunak’s Top Cabinet Ministers, an Emphasis on Continuity",
+            "abstract": "The new prime minister named people with high-level experience, several of them to posts they have held before, sending a message of stability after a period of upheaval.",
+            "url": "https://www.nytimes.com/2022/10/25/world/europe/sunak-cabinet-appointments.html",
+            "uri": "nyt://article/feb60d22-90a2-5879-a61c-4b5f15b6e818",
+            "byline": "By Megan Specia",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:00:31-04:00",
+            "created_date": "2022-10-25T14:40:53-04:00",
+            "published_date": "2022-10-25T14:40:53-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Inflation (Economics)",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "Conservative Party (Great Britain)"
+            ],
+            "per_facet": [
+                "Sunak, Rishi (1980- )",
+                "Raab, Dominic (1974- )",
+                "Hunt, Jeremy",
+                "Braverman, Suella",
+                "Wallace, Ben",
+                "James Cleverly",
+                "Gove, Michael Andrew",
+                "Johnson, Boris",
+                "Truss, Elizabeth (1975- )"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25uk-cabinet-promo/merlin_215443206_1a489fff-3d18-4044-bd6e-3f260d511401-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Rishi Sunak of Britain appointed cabinet members on Tuesday, mostly drawing on lawmakers who have held prominent positions in the past.",
+                    "copyright": "Dan Kitwood/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25uk-cabinet-promo/merlin_215443206_1a489fff-3d18-4044-bd6e-3f260d511401-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Rishi Sunak of Britain appointed cabinet members on Tuesday, mostly drawing on lawmakers who have held prominent positions in the past.",
+                    "copyright": "Dan Kitwood/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/world/25uk-cabinet-promo/25uk-cabinet-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Rishi Sunak of Britain appointed cabinet members on Tuesday, mostly drawing on lawmakers who have held prominent positions in the past.",
+                    "copyright": "Dan Kitwood/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3f1g1GH"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Some Britons fear Sunak is too rich to understand working-class suffering.",
+            "abstract": "A British worker earning the median wage would have to have been working since the Stone Age to amass the new prime minister’s fortune, one group estimated.",
+            "url": "https://www.nytimes.com/live/2022/10/25/world/uk-prime-minister-rishi-sunak/some-britons-fear-sunak-is-too-rich-to-understand-working-class-suffering",
+            "uri": "nyt://article/ac59fe07-2b2c-5279-a394-06574f8cf541",
+            "byline": "By Emma Bubola",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T14:30:05-04:00",
+            "created_date": "2022-10-25T14:30:05-04:00",
+            "published_date": "2022-10-25T14:30:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25uk-politics-wealth-topart-1-65d1/25uk-politics-wealth-topart-1-65d1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rishi Sunak, left, and his wife, Akshata Murty, were estimated to be worth more than $800 million, according to The Times of London.",
+                    "copyright": "Vickie Flores/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25uk-politics-wealth-topart-1-65d1/25uk-politics-wealth-topart-1-65d1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rishi Sunak, left, and his wife, Akshata Murty, were estimated to be worth more than $800 million, according to The Times of London.",
+                    "copyright": "Vickie Flores/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25uk-politics-wealth-topart-1-65d1/25uk-politics-wealth-topart-1-65d1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rishi Sunak, left, and his wife, Akshata Murty, were estimated to be worth more than $800 million, according to The Times of London.",
+                    "copyright": "Vickie Flores/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3TV7CmR"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Adidas Ends Partnership With Kanye West at a Considerable Cost",
+            "abstract": "The German sportswear giant is the latest company to cut ties with Mr. West, now known as Ye, after his antisemitic remarks. Ending the partnership is expected to hurt company profits.",
+            "url": "https://www.nytimes.com/2022/10/25/business/adidas-kanye-west.html",
+            "uri": "nyt://article/759e65cf-9ff5-5763-a255-9c52033fa4dd",
+            "byline": "By Melissa Eddy, Vanessa Friedman and Michael J. de la Merced",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:46:42-04:00",
+            "created_date": "2022-10-25T07:00:51-04:00",
+            "published_date": "2022-10-25T07:00:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Fashion and Apparel",
+                "Rap and Hip-Hop",
+                "Anti-Semitism"
+            ],
+            "org_facet": [
+                "adidas AG"
+            ],
+            "per_facet": [
+                "West, Kanye"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25adidas-kanye-1-db1a/25adidas-kanye-1-db1a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kanye West, now known as Ye, in Hollywood in 2016 at an event promoting his partnership with Adidas.",
+                    "copyright": "Jonathan Leibson/Getty Images North America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25adidas-kanye-1-db1a/25adidas-kanye-1-db1a-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kanye West, now known as Ye, in Hollywood in 2016 at an event promoting his partnership with Adidas.",
+                    "copyright": "Jonathan Leibson/Getty Images North America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25adidas-kanye-1-db1a/25adidas-kanye-1-db1a-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kanye West, now known as Ye, in Hollywood in 2016 at an event promoting his partnership with Adidas.",
+                    "copyright": "Jonathan Leibson/Getty Images North America"
+                }
+            ],
+            "short_url": "https://nyti.ms/3sua9sk"
+        },
+        {
+            "section": "arts",
+            "subsection": "television",
+            "title": "James Corden and the Dangers of Likability",
+            "abstract": "No one knows what an egg yolk omelet is, but we all know that TV hosts should be relatable. Or should they? That didn’t do Ellen DeGeneres any favors.",
+            "url": "https://www.nytimes.com/2022/10/25/arts/television/james-corden-apology.html",
+            "uri": "nyt://article/42bf0f21-08cc-54ad-87fc-4832ca8edd4b",
+            "byline": "By Jason Zinoman",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:56:51-04:00",
+            "created_date": "2022-10-25T10:18:26-04:00",
+            "published_date": "2022-10-25T10:18:26-04:00",
+            "material_type_facet": "",
+            "kicker": "Critic’s Notebook",
+            "des_facet": [
+                "Television",
+                "Theater",
+                "The Late Late Show with James Corden (TV Program)"
+            ],
+            "org_facet": [
+                "Balthazar (Manhattan, NY, Restaurant)"
+            ],
+            "per_facet": [
+                "Corden, James (1978- )",
+                "McNally, Keith"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/arts/25corden-notebook1/25corden-notebook1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "James Corden at a Tony Awards party in 2019. He presents himself as an ordinary bloke but is actually a Broadway star well known in Britain before arriving in the United States.",
+                    "copyright": "Rebecca Smeyne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/arts/25corden-notebook1/25corden-notebook1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "James Corden at a Tony Awards party in 2019. He presents himself as an ordinary bloke but is actually a Broadway star well known in Britain before arriving in the United States.",
+                    "copyright": "Rebecca Smeyne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/arts/25corden-notebook1/25corden-notebook1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "James Corden at a Tony Awards party in 2019. He presents himself as an ordinary bloke but is actually a Broadway star well known in Britain before arriving in the United States.",
+                    "copyright": "Rebecca Smeyne for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3WcSDH1"
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "Damaged by an Explosion, the Canvas Emerged a Gentileschi",
+            "abstract": "A painting that was scarred by the 2020 blast in Beirut is now attributed to Artemisia Gentileschi, the great 17th-century Italian painter known for her depiction of strong women.",
+            "url": "https://www.nytimes.com/2022/10/25/arts/beirut-explosion-artemisia-gentileschi-painting.html",
+            "uri": "nyt://article/d17c94d5-8a43-5430-b185-ff9de3af5352",
+            "byline": "By Jori Finkel",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:55:08-04:00",
+            "created_date": "2022-10-25T15:00:11-04:00",
+            "published_date": "2022-10-25T15:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Art",
+                "Beirut, Lebanon, Explosions (2020)",
+                "Restoration and Renovation"
+            ],
+            "org_facet": [
+                "Getty, J Paul, Museum"
+            ],
+            "per_facet": [
+                "Gentileschi, Artemisia"
+            ],
+            "geo_facet": [
+                "Lebanon",
+                "Los Angeles (Calif)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/26/arts/25gentileschi-1/merlin_215372445_3c636ca0-0c96-49bc-a289-d08f19a9b9fb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Hercules and Omphale,” by Artemisia Gentileschi, is being repaired at the Getty Museum’s conservation studio in Los Angeles. It had hung in the Sursock Palace in Beirut as an anonymous 17th-century painting.",
+                    "copyright": "Brian Guido for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/26/arts/25gentileschi-1/merlin_215372445_3c636ca0-0c96-49bc-a289-d08f19a9b9fb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Hercules and Omphale,” by Artemisia Gentileschi, is being repaired at the Getty Museum’s conservation studio in Los Angeles. It had hung in the Sursock Palace in Beirut as an anonymous 17th-century painting.",
+                    "copyright": "Brian Guido for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/26/arts/25gentileschi-1/25gentileschi-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Hercules and Omphale,” by Artemisia Gentileschi, is being repaired at the Getty Museum’s conservation studio in Los Angeles. It had hung in the Sursock Palace in Beirut as an anonymous 17th-century painting.",
+                    "copyright": "Brian Guido for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3W5J9xc"
+        },
+        {
+            "section": "magazine",
+            "subsection": "",
+            "title": "The Try Guys and the Prison of Online Fame",
+            "abstract": "This is what success looks like in the creator economy: Sometimes you have to beg millions of fans for mercy.",
+            "url": "https://www.nytimes.com/2022/10/25/magazine/try-guys-internet-fame.html",
+            "uri": "nyt://article/be36b7f3-bb37-5576-b46d-3307b4afd3b1",
+            "byline": "By Willy Staley",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T16:20:31-04:00",
+            "created_date": "2022-10-25T16:20:31-04:00",
+            "published_date": "2022-10-25T16:20:31-04:00",
+            "material_type_facet": "",
+            "kicker": "Screenland",
+            "des_facet": [
+                "Web-Original Programming",
+                "News and News Media",
+                "Adultery",
+                "Comedy and Humor"
+            ],
+            "org_facet": [
+                "YouTube.com"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/30/magazine/30mag-screenland/30mag-screenland-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 707,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Alicia Tatone"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/30/magazine/30mag-screenland/30mag-screenland-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 399,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Alicia Tatone"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/30/magazine/30mag-screenland/30mag-screenland-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Alicia Tatone"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zf7xCH"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Putin Is Onto Us",
+            "abstract": "When it comes to energy, the West wants five incompatible things at once.",
+            "url": "https://www.nytimes.com/2022/10/25/opinion/putin-energy-gas-prices.html",
+            "uri": "nyt://article/ed8fcf24-01d8-5bd6-ae47-0ff4a66f9c13",
+            "byline": "By Thomas L. Friedman",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:32:41-04:00",
+            "created_date": "2022-10-25T19:00:06-04:00",
+            "published_date": "2022-10-25T19:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "Thomas L. Friedman",
+            "des_facet": [
+                "Oil (Petroleum) and Gasoline",
+                "Elections",
+                "Russian Invasion of Ukraine (2022)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Biden, Joseph R Jr",
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/27/opinion/25friedman1/merlin_215227824_247616f9-7f6a-43cd-80af-fd8279bdc20a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo by Gavriil Grigorov"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/27/opinion/25friedman1/merlin_215227824_247616f9-7f6a-43cd-80af-fd8279bdc20a-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo by Gavriil Grigorov"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/27/opinion/25friedman1/25friedman1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo by Gavriil Grigorov"
+                }
+            ],
+            "short_url": "https://nyti.ms/3f6PJmg"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "What Everyone Should Know About the Brain’s Ability to Heal",
+            "abstract": "What society can learn from John Fetterman’s stroke.",
+            "url": "https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html",
+            "uri": "nyt://article/f5134617-c5e5-5386-9937-854dea09404b",
+            "byline": "By Jill Bolte Taylor",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T13:45:13-04:00",
+            "created_date": "2022-10-25T05:00:13-04:00",
+            "published_date": "2022-10-25T05:00:13-04:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Stroke",
+                "Midterm Elections (2022)",
+                "Hemorrhagic Stroke",
+                "Disabilities"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/26/opinion/25taylor-image2/25taylor-image2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1482,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lt. Gov. John Fetterman of Pennsylvania campaigning in Greensburg, Pa., in May.",
+                    "copyright": "Maddie McGarvey for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/26/opinion/25taylor-image2/25taylor-image2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lt. Gov. John Fetterman of Pennsylvania campaigning in Greensburg, Pa., in May.",
+                    "copyright": "Maddie McGarvey for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/26/opinion/25taylor-image2/25taylor-image2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lt. Gov. John Fetterman of Pennsylvania campaigning in Greensburg, Pa., in May.",
+                    "copyright": "Maddie McGarvey for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VXoTO0"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "The Times Endorses Kathy Hochul for Governor of New York",
+            "abstract": "In-person voting begins on Oct. 29.",
+            "url": "https://www.nytimes.com/2022/10/22/opinion/kathy-hochul-new-york-governor.html",
+            "uri": "nyt://article/44da6110-143f-5a07-a928-f5c68ed1a2dd",
+            "byline": "By The Editorial Board",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:07:40-04:00",
+            "created_date": "2022-10-22T09:00:07-04:00",
+            "published_date": "2022-10-22T09:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "The Editorial Board",
+            "des_facet": [
+                "Elections, Governors",
+                "Politics and Government",
+                "Endorsements",
+                "Midterm Elections (2022)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Hochul, Kathleen C",
+                "Zeldin, Lee M"
+            ],
+            "geo_facet": [
+                "New York State"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/23/opinion/22hochulNew/22hochulNew-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jingyu Lin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/23/opinion/22hochulNew/22hochulNew-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jingyu Lin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/23/opinion/22hochulNew/22hochulNew-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jingyu Lin for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3eRb3vS"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "To Understand Today’s G.O.P., You Have to Understand Trump’s Enablers",
+            "abstract": "The journalist Mark Leibovich details the story behind the “sycophants” who bowed to the ex-president.",
+            "url": "https://www.nytimes.com/2022/10/25/opinion/ezra-klein-podcast-mark-leibovich.html",
+            "uri": "nyt://article/3e10e9ba-7b35-5fe3-af0b-611ba66219c4",
+            "byline": "By ‘The Ezra Klein Show’",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T21:36:49-04:00",
+            "created_date": "2022-10-25T05:00:22-04:00",
+            "published_date": "2022-10-25T05:00:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "audio-neutral-informative",
+                "Politics and Government",
+                "United States Politics and Government",
+                "Midterm Elections (2022)",
+                "Thank You for Your Servitude: Donald Trump's Washington and the Price of Submission (Book)"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Leibovich, Mark",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/opinion/25eks-leibovich-image/25eks-leibovich-image-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ralph Answang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/opinion/25eks-leibovich-image/25eks-leibovich-image-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ralph Answang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/opinion/25eks-leibovich-image/25eks-leibovich-image-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ralph Answang"
+                }
+            ],
+            "short_url": "https://nyti.ms/3z99YGU"
+        },
+        {
+            "section": "podcasts",
+            "subsection": "",
+            "title": "The Maps",
+            "abstract": "In Wisconsin, aggressive and methodical gerrymandering has allowed Republicans to cement their political power. Can Democrats ever make inroads?",
+            "url": "https://www.nytimes.com/2022/10/20/podcasts/run-up-wisconsin-midterm-elections.html",
+            "uri": "nyt://article/26ed2655-c6ef-556b-9f4e-33aa1044fa17",
+            "byline": "By ‘The Run-Up’ Team",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T17:37:42-04:00",
+            "created_date": "2022-10-20T05:00:22-04:00",
+            "published_date": "2022-10-20T05:00:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "State Legislatures",
+                "United States Politics and Government",
+                "Redistricting and Reapportionment"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Walker, Scott K",
+                "Vos, Robin J"
+            ],
+            "geo_facet": [
+                "Wisconsin"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/20/podcasts/19run-up-episode7-image-audioapp/19run-up-episode7-image-audioapp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "ilbusca/ Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/20/podcasts/19run-up-episode7-image-audioapp/19run-up-episode7-image-audioapp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "ilbusca/ Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/20/podcasts/19run-up-episode7-image-audioapp/19run-up-episode7-image-audioapp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "ilbusca/ Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3s8tkrB"
+        },
+        {
+            "section": "well",
+            "subsection": "live",
+            "title": "Facing Surgery? Here’s How to Prepare.",
+            "abstract": "The best way to navigate a surgery recommendation is to ask a lot of questions.",
+            "url": "https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html",
+            "uri": "nyt://article/5e30b169-10d7-5876-a9dc-5a125439385d",
+            "byline": "By Melinda Wenner Moyer",
+            "item_type": "Article",
+            "updated_date": "2022-10-20T20:00:05-04:00",
+            "created_date": "2022-10-20T20:00:05-04:00",
+            "published_date": "2022-10-20T20:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "The Well Newsletter",
+            "des_facet": [
+                "Surgery and Surgeons"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/20/well/20Well-NL-Preparing-For-Surgery/20Well-NL-Preparing-For-Surgery-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1166,
+                    "width": 1750,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Joan Wong; Photographs by Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/20/well/20Well-NL-Preparing-For-Surgery/20Well-NL-Preparing-For-Surgery-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Joan Wong; Photographs by Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/20/well/20Well-NL-Preparing-For-Surgery/20Well-NL-Preparing-For-Surgery-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Joan Wong; Photographs by Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3CYa8lA"
+        },
+        {
+            "section": "podcasts",
+            "subsection": "",
+            "title": "We Were Three",
+            "abstract": "A story of lies, family, America and what Covid revealed, as well as what it destroyed.",
+            "url": "https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html",
+            "uri": "nyt://article/97c1156f-4072-5212-8a2e-bded2bd962cc",
+            "byline": "By Nancy Updike, Jenelle Pifer, Julie Snyder and Sophie Allison of Soccer Mommy",
+            "item_type": "Article",
+            "updated_date": "2022-10-20T18:23:20-04:00",
+            "created_date": "2022-10-11T22:00:10-04:00",
+            "published_date": "2022-10-11T22:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Deaths (Fatalities)",
+                "Hospitals",
+                "Coronavirus (2019-nCoV)",
+                "audio-negative-sad",
+                "audio-negative-tragedy"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "California",
+                "Rochester (NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/11/podcasts/we-were-three-promo-art/we-were-three-promo-art-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1334,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/11/podcasts/we-were-three-promo-art/we-were-three-promo-art-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/11/podcasts/we-were-three-promo-art/we-were-three-promo-art-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fWnarM"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "Do You Have Messy Handwriting? We Want to See It.",
+            "abstract": "Is your penmanship a mess? Can you often not read your own handwriting? Share something you wrote and later found hard to decipher.",
+            "url": "https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html",
+            "uri": "nyt://article/47d6a015-f73e-561a-b33e-e51bb4acdf3a",
+            "byline": "By Isabella Paoletto",
+            "item_type": "Article",
+            "updated_date": "2022-10-21T11:04:09-04:00",
+            "created_date": "2022-10-21T09:00:05-04:00",
+            "published_date": "2022-10-21T09:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Handwriting",
+                "Reading and Writing Skills (Education)",
+                "Writing and Writers",
+                "Computers and the Internet",
+                "internal-open-access"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/21/fashion/21PENMANSHIP-CALLOUT-1/21PENMANSHIP-CALLOUT-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/21/fashion/21PENMANSHIP-CALLOUT-1/21PENMANSHIP-CALLOUT-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/21/fashion/21PENMANSHIP-CALLOUT-1/21PENMANSHIP-CALLOUT-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images "
+                }
+            ],
+            "short_url": "https://nyti.ms/3TErxGC"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Justice Dept. Seeks to Force Trump White House Lawyers to Testify in Jan. 6 Inquiry",
+            "abstract": "The move is part of an effort by prosecutors to punch through the claims of privilege the former president is using to hamper the investigation of his push to overturn the election.",
+            "url": "https://www.nytimes.com/2022/10/25/us/politics/jan-6-trump-cipollone.html",
+            "uri": "nyt://article/9aeb348a-e635-5672-ab0d-082fb2363107",
+            "byline": "By Alan Feuer and Luke Broadwater",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:53:47-04:00",
+            "created_date": "2022-10-25T21:05:19-04:00",
+            "published_date": "2022-10-25T21:05:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Presidential Election of 2020",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Executive Privilege, Doctrine of"
+            ],
+            "org_facet": [
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Cipollone, Pat A",
+                "Philbin, Patrick",
+                "Trump, Donald J",
+                "Howell, Beryl A"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25dc-jan6-1-4f9f/25dc-jan6-1-4f9f-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pat A. Cipollone, the former White House counsel, has appeared before a federal grand jury but declined to answer some questions.",
+                    "copyright": "Pete Marovich for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25dc-jan6-1-4f9f/25dc-jan6-1-4f9f-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pat A. Cipollone, the former White House counsel, has appeared before a federal grand jury but declined to answer some questions.",
+                    "copyright": "Pete Marovich for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25dc-jan6-1-4f9f/25dc-jan6-1-4f9f-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pat A. Cipollone, the former White House counsel, has appeared before a federal grand jury but declined to answer some questions.",
+                    "copyright": "Pete Marovich for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zihTBw"
+        },
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "For Disabled Workers, a Tight Labor Market Opens New Doors",
+            "abstract": "With Covid prompting more employers to consider remote arrangements, employment has soared among adults with disabilities.",
+            "url": "https://www.nytimes.com/2022/10/25/business/economy/labor-disabilities.html",
+            "uri": "nyt://article/c014ed08-d386-5b3d-ad86-18009e7d6dbb",
+            "byline": "By Ben Casselman",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:41:16-04:00",
+            "created_date": "2022-10-25T10:36:11-04:00",
+            "published_date": "2022-10-25T10:36:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Labor and Jobs",
+                "Discrimination",
+                "Telecommuting",
+                "Disabilities",
+                "Hiring and Promotion",
+                "Coronavirus (2019-nCoV)",
+                "United States Economy",
+                "Workplace Environment"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/business/00labor-disabilities/merlin_215391771_4b309f5b-4f10-4ab7-8adf-2c1b5cf3cdf9-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Before the pandemic, Kathryn Wiltz repeatedly asked her employer to let her work from home because of her disability, but was denied.",
+                    "copyright": "Sarah Rice for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/business/00labor-disabilities/merlin_215391771_4b309f5b-4f10-4ab7-8adf-2c1b5cf3cdf9-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Before the pandemic, Kathryn Wiltz repeatedly asked her employer to let her work from home because of her disability, but was denied.",
+                    "copyright": "Sarah Rice for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/25/business/00labor-disabilities/00labor-disabilities-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Before the pandemic, Kathryn Wiltz repeatedly asked her employer to let her work from home because of her disability, but was denied.",
+                    "copyright": "Sarah Rice for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3f75o55"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Ashton B. Carter, Defense Secretary Under Obama, Dies at 68",
+            "abstract": "Trained as a physicist, he opened the U.S. military to transgender service members and removed barriers to women in combat roles.",
+            "url": "https://www.nytimes.com/2022/10/25/us/ashton-b-carter-dead.html",
+            "uri": "nyt://article/df971f73-8411-5305-b542-96a1b96da2bd",
+            "byline": "By Clay Risen",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T23:29:15-04:00",
+            "created_date": "2022-10-25T10:26:44-04:00",
+            "published_date": "2022-10-25T10:26:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "United States Defense and Military Forces",
+                "Transgender and Transsexuals"
+            ],
+            "org_facet": [
+                "Defense Department"
+            ],
+            "per_facet": [
+                "Carter, Ashton B",
+                "Obama, Barack"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/26/obituaries/25Carter-01/merlin_114974402_cce44453-0aa5-4daf-b07f-4e4ccd780cf7-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ashton B. Carter in 2016, near the end of his term as secretary of defense.",
+                    "copyright": "Joshua Roberts/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/26/obituaries/25Carter-01/merlin_114974402_cce44453-0aa5-4daf-b07f-4e4ccd780cf7-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ashton B. Carter in 2016, near the end of his term as secretary of defense.",
+                    "copyright": "Joshua Roberts/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/26/obituaries/25Carter-01/25Carter-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ashton B. Carter in 2016, near the end of his term as secretary of defense.",
+                    "copyright": "Joshua Roberts/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3TH9JLu"
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "As Israel Votes, Again, Netanyahu Pins Hopes on the Far Right",
+            "abstract": "To regain power, Benjamin Netanyahu, the longest-serving Israeli prime minister, will most likely need the support of Itamar Ben-Gvir, a far-right leader with a history of extreme views.",
+            "url": "https://www.nytimes.com/2022/10/24/world/middleeast/israel-far-right-election.html",
+            "uri": "nyt://article/5729f4b1-8fb1-5a52-906e-520f6cc09e32",
+            "byline": "By Patrick Kingsley",
+            "item_type": "Article",
+            "updated_date": "2022-10-24T10:02:27-04:00",
+            "created_date": "2022-10-24T03:00:17-04:00",
+            "published_date": "2022-10-24T03:00:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Right-Wing Extremism and Alt-Right",
+                "Elections",
+                "Politics and Government",
+                "Palestinians",
+                "Jews and Judaism",
+                "Arabs"
+            ],
+            "org_facet": [
+                "Likud Party (Israel)",
+                "Shas Party (Israel)"
+            ],
+            "per_facet": [
+                "Ben-Gvir, Itamar",
+                "Netanyahu, Benjamin",
+                "Bennett, Naftali",
+                "Lapid, Yair"
+            ],
+            "geo_facet": [
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/23/world/23israel-right01/merlin_215233278_84d0abe7-e12f-44d8-98ab-c4338eb9ab8e-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Itamar Ben-Gvir during a night walk with supporters on Thursday in Jerusalem.",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/23/world/23israel-right01/23israel-right01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Itamar Ben-Gvir during a night walk with supporters on Thursday in Jerusalem.",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/23/world/23israel-right01/23israel-right01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Itamar Ben-Gvir during a night walk with supporters on Thursday in Jerusalem.",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3N6rG3p"
+        },
+        {
+            "section": "well",
+            "subsection": "live",
+            "title": "Uterine Cancer Cases Are Rising. Here’s What to Know.",
+            "abstract": "A new study raised alarms about chemical hair straighteners being linked to the disease, but doctors say there are telltale symptoms to watch for.",
+            "url": "https://www.nytimes.com/2022/10/25/well/live/uterine-cancer-symptoms-treatment.html",
+            "uri": "nyt://article/f7cb54e3-3bd0-5f9d-87ac-c13108d0a050",
+            "byline": "By Dani Blum",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T15:46:01-04:00",
+            "created_date": "2022-10-25T13:10:48-04:00",
+            "published_date": "2022-10-25T13:10:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Women and Girls",
+                "Uterus",
+                "Research",
+                "Hazardous and Toxic Substances",
+                "Cancer",
+                "Black People",
+                "Gynecology and Gynecologists",
+                "Estrogen",
+                "Menopause",
+                "Tamoxifen (Drug)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/24/well/WELL-UTERINE-CANCER1/WELL-UTERINE-CANCER1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/24/well/WELL-UTERINE-CANCER1/WELL-UTERINE-CANCER1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/24/well/WELL-UTERINE-CANCER1/WELL-UTERINE-CANCER1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fc6qfY"
+        },
+        {
+            "section": "well",
+            "subsection": "family",
+            "title": "Is It Time to See a Sex Therapist?",
+            "abstract": "Sex can be an important part of personal well-being. But sex therapists say the work they do remains misunderstood.",
+            "url": "https://www.nytimes.com/2022/10/21/well/family/sex-therapy.html",
+            "uri": "nyt://article/0a0dc91e-0a26-5c0d-a278-3ee05691f50a",
+            "byline": "By Catherine Pearson",
+            "item_type": "Article",
+            "updated_date": "2022-10-23T13:54:21-04:00",
+            "created_date": "2022-10-21T05:00:18-04:00",
+            "published_date": "2022-10-21T05:00:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sex",
+                "Therapy and Rehabilitation",
+                "Marriages",
+                "Dating and Relationships",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/05/well/05Well-SexTherapy/05Well-SexTherapy-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Joni Majer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/05/well/05Well-SexTherapy/05Well-SexTherapy-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Joni Majer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/05/well/05Well-SexTherapy/05Well-SexTherapy-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Joni Majer"
+                }
+            ],
+            "short_url": "https://nyti.ms/3sc0ExU"
+        },
+        {
+            "section": "well",
+            "subsection": "mind",
+            "title": "How Black Women Can Interpret Those Scary Health Statistics",
+            "abstract": "Doomsday headlines are nothing new. But over time they can damage your mental health if you’re not careful.",
+            "url": "https://www.nytimes.com/2021/07/12/well/mind/black-women-health-statistics.html",
+            "uri": "nyt://article/15224226-b2ad-5f46-b195-09259003ce7d",
+            "byline": "By Jacquelynn Kerubo",
+            "item_type": "Article",
+            "updated_date": "2021-07-12T12:51:30-04:00",
+            "created_date": "2021-07-12T05:00:10-04:00",
+            "published_date": "2021-07-12T05:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Black People",
+                "Race and Ethnicity",
+                "Maternal Mortality",
+                "Infant Mortality",
+                "Pregnancy and Childbirth",
+                "Breast Cancer",
+                "Research",
+                "Discrimination",
+                "Anxiety and Stress"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/22/well/00well-black-health-stat/00well-black-health-stat-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hélène Baum"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/22/well/00well-black-health-stat/00well-black-health-stat-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hélène Baum"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/22/well/00well-black-health-stat/00well-black-health-stat-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hélène Baum"
+                }
+            ],
+            "short_url": "https://nyti.ms/3yMTuS3"
+        },
+        {
+            "section": "well",
+            "subsection": "move",
+            "title": "Why Is Pickleball So Popular?",
+            "abstract": "Everyone and their mother seems to be playing. What’s the draw — and is it really a workout?",
+            "url": "https://www.nytimes.com/2022/09/03/well/move/pickleball-popular-sport.html",
+            "uri": "nyt://article/8a5d9f62-38ae-5b4f-a458-e77982e0852e",
+            "byline": "By Juno DeMelo",
+            "item_type": "Article",
+            "updated_date": "2022-09-13T11:03:56-04:00",
+            "created_date": "2022-09-03T05:00:17-04:00",
+            "published_date": "2022-09-03T05:00:17-04:00",
+            "material_type_facet": "",
+            "kicker": "why not try",
+            "des_facet": [
+                "Pickleball (Sport)",
+                "Exercise",
+                "Content Type: Service",
+                "Research"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/26/multimedia/26WNT-PICKLEBALL-WORKOUT1/26WNT-PICKLEBALL-WORKOUT1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1638,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Caleb Thal for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/26/multimedia/26WNT-PICKLEBALL-WORKOUT1/26WNT-PICKLEBALL-WORKOUT1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Caleb Thal for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/26/multimedia/26WNT-PICKLEBALL-WORKOUT1/26WNT-PICKLEBALL-WORKOUT1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Caleb Thal for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3KKUSM3"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Paul Mescal Has Been Working Things Out",
+            "abstract": "The actor, who became a sudden sex symbol with Hulu’s “Normal People,” stars as another psychologically complex character in the A24 feature “Aftersun.”",
+            "url": "https://www.nytimes.com/2022/10/25/movies/paul-mescal-aftersun.html",
+            "uri": "nyt://article/44e02b83-3f0d-572a-b738-767cb7d62060",
+            "byline": "By Douglas Greenwood",
+            "item_type": "Article",
+            "updated_date": "2022-10-25T18:02:49-04:00",
+            "created_date": "2022-10-25T05:00:25-04:00",
+            "published_date": "2022-10-25T05:00:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Aftersun (Movie)",
+                "Normal People (TV Program)",
+                "Actors and Actresses",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Mescal, Paul (1996- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/30/arts/30paul-mescal01/merlin_214992828_e5de8900-3709-4edf-9e8b-36770b295d2b-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1635,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tom Jamieson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/30/arts/30paul-mescal01/30paul-mescal01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tom Jamieson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/30/arts/30paul-mescal01/30paul-mescal01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tom Jamieson for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3N4SOj6"
+        },
+        {
+            "section": "crosswords",
+            "subsection": "",
+            "title": "Mini to Maestro, Part 3: Advanced Puzzles",
+            "abstract": "Friday, Saturday and Sunday bring some of the hardest puzzles of the week.",
+            "url": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-3.html",
+            "uri": "nyt://article/496fdff9-a313-5df4-976e-ee71d8517363",
+            "byline": "By Jackie Frere and Isaac Aronow",
+            "item_type": "Article",
+            "updated_date": "2022-10-07T15:26:55-04:00",
+            "created_date": "2022-09-19T09:00:05-04:00",
+            "published_date": "2022-09-19T09:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Crossword Puzzles"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/15/crosswords/15gameplay-m2m/15gameplay-m2m-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Merceron"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/15/crosswords/15gameplay-m2m/15gameplay-m2m-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Merceron"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/15/crosswords/15gameplay-m2m/15gameplay-m2m-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Merceron"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qOEUrh"
+        }
+    ]
+}

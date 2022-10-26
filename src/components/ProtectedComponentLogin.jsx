@@ -9,18 +9,26 @@ const ProtectedComponentLogin = ({children}) => {
     const navigate= useNavigate(auth);
     const [user, isLoading] = useAuthState(auth)
 
+    // useEffect(()=>{
+    //     if(isLoading){
+    //       return
+    //     }
+    //     if(user){
+    //       navigate("/")
+    //     }
+        
+    //   }, [isLoading, user, navigate]) 
+    
     useEffect(()=>{
         if(user){
-            return children
+            navigate("/")
         }
-    },[user, navigate])
+    }, [user, navigate]);
     if(isLoading){
-        return
+        return;
     }else{
-        navigate("/login")
-        return ;
+        return children ;
     }
-  
 }
 
 export default ProtectedComponentLogin

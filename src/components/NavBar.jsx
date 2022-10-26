@@ -3,7 +3,7 @@ import React from "react";
 import { AppBar, Box, Button, Toolbar, Typography } from "@mui/material";
 
 
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 import styles from "./NavBar.module.css";
 
@@ -23,9 +23,16 @@ const NavBar = () => {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" component="div" className={styles.grow}>
-            Belajar Firebase Authentication
+            <Box className={styles.box}>
+              <Link to="/" className={styles.navMenu} >All-News</Link>
+              <Link to="/science" className={styles.navMenu}>US</Link>
+              <Link to="/art" className={styles.navMenu}>Art</Link>
+              <Link to="/about" className={styles.navMenu}>About</Link>
+              {/* <Link >Search</Link>
+              <Link >About</Link> */}
+            </Box>
           </Typography>
-          <Button color="inherit" onClick={buttonLogoutOnClickHandler}>
+          <Button sx={{textTransform:'capitalize '}} variant="outlined" color="inherit" onClick={buttonLogoutOnClickHandler}>
             Logout
           </Button>
         </Toolbar>

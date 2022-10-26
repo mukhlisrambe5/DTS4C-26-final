@@ -1,20 +1,22 @@
-import React, {useState, useEffect} from "react";
+import React , {useState, useEffect} from "react";
 
 import { Box, Typography } from "@mui/material";
 
+import styles from "./Science.module.css";
 import axios from "axios";
 
-import styles from "./HomePage.module.css";
-
 import CardNews from "../components/CardNews";
+import NavBar from "../components/NavBar";
+import Footer from "../components/Footer";
 
-const HomePage = () => {
+
+const Science = () => {
   const [newsData, setNewsData] = useState([])
 
   useEffect(()=>{
     const fetchDataNews = async()=>{
       try {
-      const response = await axios.get("https://api.nytimes.com/svc/topstories/v2/home.json?api-key=4K7ajLOBNSNFJ77BNN1xqFDS7h1ecEEP")
+      const response = await axios.get("https://api.nytimes.com/svc/topstories/v2/us.json?api-key=4K7ajLOBNSNFJ77BNN1xqFDS7h1ecEEP")
       setNewsData(response.data.results)  
       console.log(response.data.results)
     }catch(err){
@@ -26,8 +28,9 @@ const HomePage = () => {
   ,[])
   return (
     <>
+      <NavBar />
       <Box className={styles.boxy}>
-        <Typography sx={{marginBottom: '1em' , marginTop: '0.5em'}} variant="h6" className={styles.boldText}>Latest News</Typography>
+        <Typography sx={{marginBottom: '1em' , marginTop: '0.5em'}} variant="h6" className={styles.boldText}>USA News</Typography>
         
          {
           newsData.map((news)=>{
@@ -36,8 +39,9 @@ const HomePage = () => {
          }
       
       </Box>
+      <Footer/>
     </>
   );
 };
 
-export default HomePage;
+export default Science;

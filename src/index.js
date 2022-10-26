@@ -10,6 +10,10 @@ import RegisterPage from "./containers/RegisterPage";
 
 import ProtectedComponent from "./components/ProtectedComponent";
 import ProtectedComponentLogin from "./components/ProtectedComponentLogin";
+import About from "./containers/About";
+import Science from "./containers/Science";
+import Art from "./containers/Art";
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -21,12 +25,25 @@ root.render(
             <App />
           </ProtectedComponent>
         } />
+          <Route path="/science" element={
+          <ProtectedComponent>
+            <Science />
+          </ProtectedComponent>
+        } />
+          <Route path="/art" element={
+          <ProtectedComponent>
+            <Art />
+          </ProtectedComponent>
+        } />
+        <Route path="/about" element={
+          <ProtectedComponent>
+            <About />
+          </ProtectedComponent>
+        } />
         <Route path="login" element={
-          //<ProtectedComponentLogin>
-          //<ProtectedComponent>
+         <ProtectedComponentLogin>
             <LoginPage />
-          //</ProtectedComponent>
-          //</ProtectedComponentLogin>
+          </ProtectedComponentLogin>
         } />
         <Route path="register" element={<RegisterPage />} />
       </Routes>
